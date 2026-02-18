@@ -1,16 +1,9 @@
-# myapp
+# IAMoviles-Act10-Segunda-pantalla-diseno
 
-A new Flutter project.
+<img width="1282" height="554" alt="image" src="https://github.com/user-attachments/assets/6e50fe45-4ce6-4841-83de-ba9f275fdd6b" />
+<img width="1275" height="294" alt="image" src="https://github.com/user-attachments/assets/be85c383-571b-4cac-a5dc-431ba11a78a9" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="335" height="448" alt="image" src="https://github.com/user-attachments/assets/cc230608-b575-49ea-89d4-a7f454fe045b" /> 
+<img width="316" height="133" alt="image" src="https://github.com/user-attachments/assets/6af0f3fc-2821-4379-bd39-b80da34a1c92" />
